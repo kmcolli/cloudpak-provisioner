@@ -1,5 +1,5 @@
 # Cloud Pak Provisioner API
-Cloud Pak Provisioner is a collection of APIs that make it easy to perform common tasks for managing and configuration ROKS clusters.  Many of the APIs are focused on Cloud Pak but can be extended to any deployment on ROKS.
+Cloud Pak Provisioner is a collection of APIs that make it easy to perform common tasks for managing and configuration IBM Cloud Managed Openshift (ROKS) clusters.  Many of the APIs are focused on Cloud Pak but can be extended to any deployment on ROKS.
 
 There are seven categories of APIs:
 * Cloud Object Storage
